@@ -274,8 +274,8 @@ void ota_confirm_app_if_needed(void)
 
 
 
-#define WIFI_SSID      "iPhoneM"
-#define WIFI_PASS      "m123456p"
+#define WIFI_SSID      "FilsemWifi"
+#define WIFI_PASS      "MasterTI24$"
 
 static const char *TAG_WIFI = "WIFI";
 
