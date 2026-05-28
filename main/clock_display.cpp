@@ -82,7 +82,7 @@ void ota_test_clock_display_make_date_scroll_text(const ds3231_time_t *time,
 
     snprintf(buf,
              size,
-             "5-28-2026 APP:%s  %s %s %d %s %04d",			 
+             "APP:%s  %s %s %d %s %04d",			 
 			 app->version,
 			 running->label,
              dias_semana[weekday_index],
